@@ -33,15 +33,14 @@ This project demonstrates a **Role-Based Access Control (RBAC)** system to manag
 
 ## 📋 **Prerequisites**
 
-- **Python 3.x**
-- **SQLite** (comes with Python’s `sqlite3` module)
+- **Python 3**
+- **SQLite** 
 
 ---
 
 ## ⚙️ **How to Run**
 
 1. **Clone the Repository**:
-   ```bash
    git clone https://github.com/Tanyatani/RBAC-Database-Project.git
    ```
 
